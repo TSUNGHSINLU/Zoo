@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">台北市立動物園</string>
+    <string name="app_bar_title">台北市立動物園</string>
+    <string name="image_desc">圖片</string>
+    <string name="default_message">資料錯誤!!!</string>
+    <string name="waiting">請稍待....</string>
+    <string name="memo_default">無休館資訊</string>
+    <string name="open_url">開啟連結</string>
+    <string name="open">開啟</string>
+    <string name="close">關閉</string>
+    <string name="about_me">關於我</string>
+    <string name="plant_data">植物資料</string>
+    <string name="english_name">英文名</string>
+    <string name="latin_name">拉丁名</string>
+    <string name="alias">別名</string>
+    <string name="genus">屬</string>
+    <string name="family">科</string>
+    <string name="introduction">簡介</string>
+    <string name="feature">特徵</string>
+    <string name="application">用途</string>
+    <string name="update_time">更新時間</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF5511</color>
+    <color name="colorPrimaryDark">#E63F00</color>
+    <color name="colorAccent">#FF8800</color>
+    <color name="appBarTextColor">#FFFFFF</color>
+    <color name="emptyImageColor">#777777</color>
+    <color name="listBackground">#EBE9E9</color>
+    <color name="cardViewColor">#FFFFFF</color>
+    <color name="listViewColor">#AAAAAAAA</color>
+    <color name="nameTextColor">#333333</color>
+    <color name="viewTextColor">#666666</color>
+    <color name="viewTextLightColor">#888888</color>
+    <color name="viewTextUrlColor">#0000FF</color>
+    <color name="defaultTextColor">#333333</color>
+</resources>
