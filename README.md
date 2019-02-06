@@ -1,5 +1,5 @@
-# Zoo
-### Just a demo
+﻿# Zoo
+### Simple Demo
 1. 使用Java and Fragment
 2. 架構:以MVP為主
 3. UI
